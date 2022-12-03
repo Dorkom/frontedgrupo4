@@ -23,7 +23,7 @@ const Influencer = () => {
             </cite>
           </div2>
           <h2>MR TOP 5.</h2>
-          <img src="icono1.jpeg" />
+          <img src="./img/icono1.jpeg" />
           <p>
             Thanks to @MrTop5 for showing off the unboxing of the #BuildRedux
             Pc! Check out his video to see his PC and setup!
@@ -45,7 +45,7 @@ const Influencer = () => {
             simpler and again for only $75 bucks? Okay!
           </cite>
           <h2>SHORT CIRCUIT.</h2>
-          <img src="icono2.jpeg" />
+          <img src="./img/icono2.jpeg" />
           <p>Thanks for the awesome review @ShortCircuit!</p>
         </div>
       </div>
